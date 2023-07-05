@@ -1,0 +1,2 @@
+file 3
+merging to master branch
